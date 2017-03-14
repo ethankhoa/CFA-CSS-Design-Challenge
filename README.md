@@ -5,7 +5,7 @@ The goal of this challenge was to take an example landing page, without referenc
 
 ## Result
 
-The end result is a mix of the Get Grav landing page and my own content. 
+The end result is a mix of the Get Grav landing page and my own content.
 
 ## Difficulties
 Along with this being an intro to our first custom CSS, and bootstrap, we test between flexbox methods as well bootstrap. This helped me understand row, container usage as well as the different column methods between bootstrap and flexbox.
@@ -20,4 +20,4 @@ The original landing page was a fairly intense landing page from getgrav.org. Th
 
 The original that we referenced is below:
 
-![N|Solid](grav_70per.png)
+![Get Grav](images/grav_70per.png)
