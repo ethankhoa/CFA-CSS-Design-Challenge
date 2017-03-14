@@ -7,6 +7,12 @@ The goal of this challenge was to take an example landing page, without referenc
 
 The end result is a mix of the Get Grav landing page and my own content.
 
+Index
+  index.html
+
+Stylesheet
+  stylesheet.css 
+
 ## Difficulties
 Along with this being an intro to our first custom CSS, and bootstrap, we test between flexbox methods as well bootstrap. This helped me understand row, container usage as well as the different column methods between bootstrap and flexbox.
 
