@@ -20,4 +20,4 @@ The original landing page was a fairly intense landing page from getgrav.org. Th
 
 The original that we referenced is below:
 
-![Get Grav](images/grav_70per.png)
+![Get Grav](/images/grav_70per.png)
